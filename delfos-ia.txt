@@ -1,0 +1,12 @@
+Delfos — guía de la demo comercial
+
+Tesis: Delfos busca reducir el riesgo de la inversión publicitaria orientando qué creativos producir, probar y escalar a partir de evidencia de mercado y resultados propios.
+
+Oráculo observa anuncios y documenta cambios con su fuente. La permanencia de un anuncio no demuestra ventas.
+Pitia utiliza el historial del negocio para comparar escenarios de inversión por canal. El marketing mix no identifica por sí solo una pieza ganadora.
+Apolo lleva un brief aprobado a los Studios para producir una pieza que permita probar la hipótesis.
+Lab contrasta la hipótesis con el resultado. Memory conserva el contexto y el aprendizaje para decidir si conviene iterar, detener o escalar.
+
+Cada producto puede utilizarse por separado. Publicar o comprometer presupuesto requiere aprobación humana. El cuaderno y los gráficos de la demo son ilustrativos y no representan resultados de clientes.
+
+Sitio público: https://upgradedigitalsas-crypto.github.io/delfos-demo/
